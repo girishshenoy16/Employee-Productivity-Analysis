@@ -82,5 +82,3 @@ The data comes from internal HR records (anonymized) and has been pre‑processe
 For deeper analysis, see `Analysis.ipynb`.
 
 ---
-
-© 2025 Girish Shenoy
